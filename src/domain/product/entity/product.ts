@@ -23,7 +23,7 @@ export class Product {
 
     public get id() {
         return this.props.id;
-    }
+    } 
 
     public get name(){
         return this.props.name;
